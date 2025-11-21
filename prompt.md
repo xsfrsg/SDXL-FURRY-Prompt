@@ -56,7 +56,9 @@ https://www.bilibili.com/video/BV1VXYszZEvD/
  
 
 ## QuickStart 起手式
-![alt text](/image/起手式1.png)
+
+<img src="/image/起手式1.png" alt="起手式" width="300" >
+
 ```  
 PROMPT:
 furry,chibi,solo,cat feature，pastel color,simple white background，(kamikiririp:0.2),(soresaki:0.4),
