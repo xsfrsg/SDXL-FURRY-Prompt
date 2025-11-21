@@ -1,5 +1,5 @@
 # FURRY DIFFUSION TUTORIAL 
-- 基于Illustrious（光辉）类模型的提示词及lora组合探究，展示已发现的平涂及伪厚涂风格下的FURRY向提示词书写技巧
+- 基于Illustrious（光辉）类模型的提示词及lora组合探究，展示已发现的平涂及伪厚涂风格下的FURRY向提示词书写技巧，分享当下SD的使用心得
 
 ## 基础模型 (Checkpoint)
 
@@ -7,35 +7,70 @@
 - Indigo Furry Mix XL NoobAI_EPS_Ⅹ_10  
 
 ## LORA 
-1. Art-山楂糖_1  
+![alt text](/image/ALL_LORA.png)  
+
+### 1. 画风类
+-  Art-山楂糖_1（Lib独占）
 https://www.liblib.art/modelinfo/64d5025db1c64fb596af342f66a921c5  
 <img src="/image/LORA1.jpg" alt="示例图片" width="600" >  
 
-2. 有兽焉漫画  
+- 有兽焉漫画（可下载）
 https://www.liblib.art/modelinfo/6fc79150990447409a3ad5feb75a77d8    
 <img src="/image/LORA_YSY.jpg" alt="示例图片" width="600" >  
+### 2. 画面材质类 （太多了 自己点网页去看效果预览了 不截屏了）
+- 幻月重光_暖色滤镜（最安全的滤镜lora，不会破坏画风）
+  https://www.liblib.art/modelinfo/3fc51122271047e99a8beb5c9f0e976b
+- XL-藏色彩感 （和chibi风格冲突，但会强化透视质量）
+  https://www.liblib.art/modelinfo/85be701b3321450dbe6cfba673380f4d
+- 战斗狂草乱线风草稿风 （增加线稿笔触）
+  https://www.liblib.art/modelinfo/67b8eab839254bf3b4c6539b6760781e
+- 米山舞-yoneyama mai （大张力画面，但及其容易崩手）
+  https://www.liblib.art/modelinfo/36afc64367c24006a7922ae1301b2f5e
+- 大笔触厚涂（仅限会员，但作用有限） 
+  https://www.liblib.art/modelinfo/e8e7ffdbf2304943967f03ce56c586dc
+- Impressioncolor l 印象色彩-SDXL（仅限会员，但作用也有限） 
+  https://www.liblib.art/modelinfo/66e8874fc4fd4a0db55cc3a473ad2470
 
-3. 
 
-## 入口
+## 绘画入口  
+
 - 由于部分LORA独占性，在其他平台不可用，推荐在LiblibAI中的webui进行绘制 
+https://www.liblib.art/viphome?referralCode=9hysq3HU
 <img src="/image/inter.jpg" alt="示例图片" width="600" >  
 <img src="/image/inter2.jpg" alt="示例图片" width="600" >  
 
+- Webui基础使用参考教程  
+https://www.bilibili.com/video/BV1VXYszZEvD/  
+
+## Tips 
+  - 提示词推荐遵从主体, 背景, 画面材质顺序书写，增加可读性和可维护性
+  - 正面提示词不必使用质量词（best quality等），属于SD1.5时期的过时操作，现在实测并没有显著影响，只会影响可读性，浪费prompt词条位置。总之，应该用尽可能简明的词组指出画面成分
+  - 负面提示词看情况补充 （watermark：2.0）去除画面水印即可，同样不需要堆叠负向质量词
+  - 提示词权重，lora都要依少到多逐个调试，找到合适的范围区间；尽量避免联调，会难以定位导致问题出现的部分
+  - 画师串遵从huggingface的csv文件（可以在danbooru搜索，再查csv表确定提示词中的名称），但其实如同大海捞针，遇到可用的串组合相当困难，应该直接参考他人已经使用的组合。  
+   https://drive.google.com/file/d/1FuME-Ch5a9PsfDX5DN68ygjQaR28EdXZ/view?usp=drive_link
 
 ## 1. 平涂类  
-  提示词推荐遵从主体, 背景, 画面材质顺序书写，增加可读性和可维护性
+ 
 
 ## 起手式
 ```  
-furry,kemono,solo,chibi,cat feature，pastel color,simple white background，(kamikiririp:0.2),(soresaki:0.4),
+furry,chibi,solo,cat feature，pastel color,simple white background，(kamikiririp:0.2),(soresaki:0.4),
 ```
+| prompt | 作用 | 延申 |
+|-------|-------|-------|
+| furry,chibi,solo | 固定组合 | 不需要萌系便去掉chibi |
+| cat feature | 指定动物特征 | 避免直接写动物导致背景出现一群相应动物的情况 |
+| pastel color | 柔和配色 | dark blue and light purple color scheme 深蓝，浅紫配色|
+| simple white background | 指定背景 | dark,abstract background  |
+| (kamikiririp:0.2),(soresaki:0.4), | 画师串 | - |
+
 ``` 
 LORA
 Art-山楂糖_1: 0.5
 有兽焉漫画_兔爷: 0.8
 ```
-<img src="/image/1.png" alt="起手式" width="300" >
+<img src="/image/1.jpg" alt="起手式" width="300" >
 
 
 ## 和服套装
