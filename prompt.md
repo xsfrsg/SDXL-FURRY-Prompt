@@ -84,6 +84,9 @@ Art-山楂糖_1: 0.5
 furry,chibi,solo,
 green hair,knee-high socks,one eye half-lidded,long hair tied back,kimono,fox ears,subtle blush,wide sleeves,bangs swept to side,sun (symbol),obi sash,hakama pants,simple traditional outfit,plain white,holding a fan,looking at viewer,hair tie,white undergarments,kimono slightly open,
 foreshortening,gradient color,one eye closed,from below,simple white background,
+
+LORA:
+Art-山楂糖_1: 0.7
 ```
 <img src="/image/2.jpg" alt="和服套装" width="300" >
 
