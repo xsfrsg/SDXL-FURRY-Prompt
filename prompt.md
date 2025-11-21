@@ -35,7 +35,8 @@ https://www.liblib.art/modelinfo/6fc79150990447409a3ad5feb75a77d8
 
 ## 绘画入口  
 
-- 由于部分LORA独占性，在其他平台不可用，推荐在LiblibAI中的webui进行绘制  
+- 由于部分LORA独占性，在其他平台不可用，推荐在LiblibAI中的webui进行绘制
+- 会员最低档40元一个月，15000积分能差不多画4000多张，正常玩玩是非常足够了；免费一天的200点也足够试一试 
 （需要充值会员的话可以走此邀请码，应该会有一定折扣 https://www.liblib.art/viphome?referralCode=9hysq3HU ）
 
 <img src="/image/inter.jpg" alt="示例图片" width="600" >  
@@ -145,6 +146,10 @@ XL-藏色彩感: 0.4
 | blurry | 大光圈焦散效果 | - |
 | chromatic aberration | 色差 | 轮廓边缘模拟相机色散效果 |
 | sketch | 线稿 | 此处主要作为lora触发词，单独使用作用不明显 |
+
+
+- 提一下高清重绘，一般放大1.25倍，重绘幅度0.4附近即可
+<img src="/image/upscale.png" alt="wt ht" height="500" >  
 
 ### 白虎-武侠
 
