@@ -17,6 +17,7 @@ https://www.liblib.art/modelinfo/64d5025db1c64fb596af342f66a921c5
 - 有兽焉漫画（可下载）
 https://www.liblib.art/modelinfo/6fc79150990447409a3ad5feb75a77d8    
 <img src="/image/LORA_YSY.jpg" alt="示例图片" width="600" >  
+
 ### 2. 画面材质类 （太多了 自己点网页去看效果预览了 不截屏了）
 - 幻月重光_暖色滤镜（最安全的滤镜lora，不会破坏画风）
   https://www.liblib.art/modelinfo/3fc51122271047e99a8beb5c9f0e976b
@@ -34,8 +35,9 @@ https://www.liblib.art/modelinfo/6fc79150990447409a3ad5feb75a77d8
 
 ## 绘画入口  
 
-- 由于部分LORA独占性，在其他平台不可用，推荐在LiblibAI中的webui进行绘制 
-https://www.liblib.art/viphome?referralCode=9hysq3HU
+- 由于部分LORA独占性，在其他平台不可用，推荐在LiblibAI中的webui进行绘制  
+（需要会员的话可以走此邀请码 https://www.liblib.art/viphome?referralCode=9hysq3HU）
+
 <img src="/image/inter.jpg" alt="示例图片" width="600" >  
 <img src="/image/inter2.jpg" alt="示例图片" width="600" >  
 
@@ -61,7 +63,7 @@ furry,chibi,solo,cat feature，pastel color,simple white background，(kamikirir
 |-------|-------|-------|
 | furry,chibi,solo | 固定组合 | 不需要萌系便去掉chibi |
 | cat feature | 指定动物特征 | 避免直接写动物导致背景出现一群相应动物的情况 |
-| pastel color | 柔和配色 | dark blue and light purple color scheme 深蓝，浅紫配色|
+| pastel color | 柔和配色 | xxx color scheme 指定画面配色|
 | simple white background | 指定背景 | dark,abstract background  |
 | (kamikiririp:0.2),(soresaki:0.4), | 画师串 | - |
 
@@ -74,6 +76,7 @@ Art-山楂糖_1: 0.5
 
 
 ## 和服套装
+- 看到不错的服装搭配 ，可以复制进来
 ``` 
 chibi,furry,solo,
 green hair,knee-high socks,one eye half-lidded,long hair tied back,chibi,kimono,fox ears,subtle blush,wide sleeves,bangs swept to side,sun (symbol),obi sash,hakama pants,simple traditional outfit,plain white,holding a fan,looking at viewer,hair tie,white undergarments,kimono slightly open,foreshortening,gradient color,one eye closed,from below,
