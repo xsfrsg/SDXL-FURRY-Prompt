@@ -57,7 +57,7 @@ https://www.bilibili.com/video/BV1VXYszZEvD/
 
 ## QuickStart 起手式
 
-<img src="/image/起手式1.png" alt="起手式" width="300" >
+<img src="/image/起手式1.png" alt="起手式" height="300" >
 
 ```  
 PROMPT:
