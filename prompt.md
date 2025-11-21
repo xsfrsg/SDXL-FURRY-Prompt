@@ -138,6 +138,50 @@ LORA
 XL-藏色彩感: 0.4
 战斗狂草乱线风草稿风: 0.5
 ```
+| prompt | 作用 | 解释 |
+|-------|-------|-------|
+| Gardevoir | 使用官方的标准英文名称即可 | 不需要写furry，写了很可能导致意料之外的结果 |
+| cinematic light，hdr shadow | 强调明暗光影对照 | - |
+| blurry | 大光圈焦散效果 | - |
+| chromatic aberration | 色差 | 轮廓边缘模拟相机色散效果 |
+| sketch | 线稿 | 此处主要作为lora触发词，单独使用作用不明显 |
+
+### 白虎-武侠
+
+<img src="/image/伪厚涂2.jpg" alt="wt ht" width="300" >  
+
+```
+furry,solo,tiger feature,white and black stripe fur,Wuxia,bamboo hat,looking away,
+close up,upper body,vibrant color,gradient color,cinematic light,hdr shadow,blurry,chromatic aberration,sketch,(kamikiririp:0.1),(soresaki:0.2),
+```
+| prompt | 作用 | 解释 |
+|-------|-------|-------|
+| Wuxia | 指定题材 | 模型可以自动脑补一定的细节，快速出效果，再酌情手工补充 |
+| looking away | 视线 | 常用的有looking at viewer等 | 
+| close up | 相机距离 | 还有midshot wideshot等 但由于是专注于立绘的模型，效果不佳 |
+
+- 由此见得，当画风描述框架确定下来后，模型足够的泛化性使得绘画内容有很灵活的变化空间。
+
+### 指定配色
+
+<img src="/image/伪厚涂3.png" alt="wt ht" width="300" >    
+
+```
+furry,chibi,white fur,tiger feature,(solo:1.5),tall and thin,gradient color,smile,flowers,foreshortening,cinematic light,hdr shadow,blurry,chromatic aberration,sketch,grey scale,looking away,dark green and light orange color scheme,loose hoodie,hand in pocket,(soresaki:0.2)
+===
+LORA
+幻月重光_暖色滤镜
+Art-山楂糖
+战斗狂草乱线风草稿风
+```
+
+| prompt | 作用 | 解释 |
+|-------|-------|-------|
+| dark green and light orange color scheme | 指定配色 | 如图可见，可以轻松做出颜色统一的画面，并且能智能的指定到近似颜色的物体上 |
+
+
+
+
 
 
 
