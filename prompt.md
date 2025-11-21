@@ -10,7 +10,7 @@ LORA
 Art-山楂糖_1: 0.5
 有兽焉漫画_兔爷: 0.8
 ```
-<img src="/image/1.png" alt="示例图片" width="200" height="100">
+<img src="/image/1.png" alt="示例图片" width="300" height="200">
 
 
 ## 和服套装
