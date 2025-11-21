@@ -36,7 +36,7 @@ https://www.liblib.art/modelinfo/6fc79150990447409a3ad5feb75a77d8
 ## 绘画入口  
 
 - 由于部分LORA独占性，在其他平台不可用，推荐在LiblibAI中的webui进行绘制  
-（需要会员的话可以走此邀请码 https://www.liblib.art/viphome?referralCode=9hysq3HU）
+（需要充值会员的话可以走此邀请码，应该会有一定折扣 https://www.liblib.art/viphome?referralCode=9hysq3HU ）
 
 <img src="/image/inter.jpg" alt="示例图片" width="600" >  
 <img src="/image/inter2.jpg" alt="示例图片" width="600" >  
