@@ -16,7 +16,7 @@ https://www.liblib.art/modelinfo/64d5025db1c64fb596af342f66a921c5
 
 - 有兽焉漫画（可下载）
 https://www.liblib.art/modelinfo/6fc79150990447409a3ad5feb75a77d8    
-<img src="/image/LORA_YSY.jpg" alt="示例图片" width="600" >  
+<img src="/image/LORA_YSY.jpg" alt="示例图片" width="600" >
 
 ### 2. 画面材质类 （太多了 自己点网页去看效果预览了 不截屏了）
 - 幻月重光_暖色滤镜（最安全的滤镜lora，不会破坏画风）
