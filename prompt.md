@@ -55,9 +55,15 @@ https://www.bilibili.com/video/BV1VXYszZEvD/
 ## 1. 平涂类  
  
 
-## 起手式
+## QuickStart 起手式
+![alt text](/image/起手式1.png)
 ```  
+PROMPT:
 furry,chibi,solo,cat feature，pastel color,simple white background，(kamikiririp:0.2),(soresaki:0.4),
+====
+LORA:
+Art-山楂糖_1: 0.5
+有兽焉漫画_兔爷: 0.8
 ```
 | prompt | 作用 | 延申 |
 |-------|-------|-------|
@@ -67,21 +73,28 @@ furry,chibi,solo,cat feature，pastel color,simple white background，(kamikirir
 | simple white background | 指定背景 | dark,abstract background  |
 | (kamikiririp:0.2),(soresaki:0.4), | 画师串 | - |
 
-``` 
-LORA
-Art-山楂糖_1: 0.5
-有兽焉漫画_兔爷: 0.8
-```
 <img src="/image/1.jpg" alt="起手式" width="300" >
 
 
 ## 和服套装
 - 看到不错的服装搭配 ，可以复制进来
 ``` 
-chibi,furry,solo,
-green hair,knee-high socks,one eye half-lidded,long hair tied back,chibi,kimono,fox ears,subtle blush,wide sleeves,bangs swept to side,sun (symbol),obi sash,hakama pants,simple traditional outfit,plain white,holding a fan,looking at viewer,hair tie,white undergarments,kimono slightly open,foreshortening,gradient color,one eye closed,from below,
-white background,
+furry,chibi,solo,
+green hair,knee-high socks,one eye half-lidded,long hair tied back,kimono,fox ears,subtle blush,wide sleeves,bangs swept to side,sun (symbol),obi sash,hakama pants,simple traditional outfit,plain white,holding a fan,looking at viewer,hair tie,white undergarments,kimono slightly open,
+foreshortening,gradient color,one eye closed,from below,simple white background,
 ```
 <img src="/image/2.jpg" alt="和服套装" width="300" >
+
+| prompt | 作用 | 延申 |
+|-------|-------|-------|
+| green hair | 发色 | xxx fur毛发颜色,加stripe有条纹效果，xxx eyes 眼睛颜色 |
+| foreshortening | 透视法 | 增强透视表现，更有立体感（但搭配一些lora可能导致动作过于激烈而崩手崩脚） |
+| gradient color | 渐变色 | 丰富画面表现，使颜色有过渡质感 |
+| one eye closed | 指定动作 | v(v手势)，> < 颜文字等都可，也可直接翻译软件 |
+
+- 多翻一翻提示词表，这些原生词汇会识别的更好
+![alt text](/image/props.png)
+
+## 
 
 
