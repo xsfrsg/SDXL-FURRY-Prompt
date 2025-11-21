@@ -120,7 +120,7 @@ chibi,furry,kemono,(solo:1.5),chibi,(kamikiririp:0.2),(soresaki:0.4),(head focus
 ## 2. 伪厚涂类
 
 - 宝可梦简易速查
-<img src="/image/宝可梦.png" alt="pkm" >  
+<img src="/image/宝可梦.png" alt="pkm"  width="300" >  
 
 - 宝可梦百科  
   https://wiki.52poke.com/wiki/
