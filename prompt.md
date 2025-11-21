@@ -1,5 +1,5 @@
 # FURRY DIFFUSION TUTORIAL 
-- 基于Illustrious（光辉）类模型的提示词及lora组合探究，展示已发现的平涂及伪厚涂风格下的FURRY向提示词书写技巧，分享当下SD的使用心得
+- 基于Illustrious（光辉）类模型的提示词及lora组合探究，展示已发现的平涂及伪厚涂风格下的FURRY向提示词书写技巧，分享当下SD的使用心得, 同时作为备忘。
 
 ## 基础模型 (Checkpoint)
 
@@ -54,10 +54,15 @@ https://www.bilibili.com/video/BV1VXYszZEvD/
 
 ## 1. 平涂类  
  
-
-## QuickStart 起手式
+### QuickStart 起手式
 
 <img src="/image/起手式1.png" alt="起手式" height="300" >
+
+<img src="/image/起手式画幅参数.png" alt="画幅 & CFG" height="300" >
+
+- CFG 5-7即可 
+- 画幅有:竖幅1024x1536(2:3) 横幅1536x864(16:9) 正方形（1024x1024）正确的画幅参数绘制效果最好
+- 记得随机种子设置为-1 ，画面过于固定时看一下是不是锁了种子
 
 ```  
 PROMPT:
@@ -78,7 +83,7 @@ Art-山楂糖_1: 0.5
 <img src="/image/1.jpg" alt="起手式" width="300" >
 
 
-## 和服套装
+### 和服套装
 - 看到不错的服装搭配 ，可以复制进来
 ``` 
 furry,chibi,solo,
@@ -95,11 +100,42 @@ Art-山楂糖_1: 0.7
 | green hair | 发色 | xxx fur毛发颜色,加stripe有条纹效果，xxx eyes 眼睛颜色 |
 | foreshortening | 透视法 | 增强透视表现，更有立体感（但搭配一些lora可能导致动作过于激烈而崩手崩脚） |
 | gradient color | 渐变色 | 丰富画面表现，使颜色有过渡质感 |
-| one eye closed | 指定动作 | v(v手势)，> < 颜文字等都可，也可直接翻译软件 |
+| one eye closed | 指定动作 | v(v手势)，颜文字等都可，也可直接翻译软件 |
 
 - 多翻一翻提示词表，这些原生词汇会识别的更好
 ![alt text](/image/props.png)
 
-## 
+### 表情包 expressions
+```
+chibi,furry,kemono,(solo:1.5),chibi,(kamikiririp:0.2),(soresaki:0.4),(head focus:1.2),(simple white background:1.4),gradient color,light green hair,red eyes,expressions,
+``` 
+<img src="/image/expressions.png" alt="表情包" width="300" >
+
+| prompt | 作用 | 延申 |
+|-------|-------|-------|
+| (head focus:1.2) | 聚焦于头部，画头像时用 | 还有upperbody上半身，full body全身，portrait肖像构图|
+| expressions | 表情差分 | 会画出各种表情，可以指定多种，但不太稳定，抽盲盒一样 |
+
+
+## 2. 伪厚涂类
+
+- 宝可梦简易速查
+<img src="/image/宝可梦.png" alt="pkm" >  
+
+- 宝可梦百科  
+  https://wiki.52poke.com/wiki/
+
+### 沙奈朵-和风
+<img src="/image/houtu1.jpg" alt="snd" width="300" >  
+```
+Gardevoir,kimono,holding a sword,solo,(soresaki:0.2),foreshortening,smile,cinematic light,hdr shadow,blurry,chromatic aberration,(sketch:0.8),simple background,pastel color,
+====
+LORA
+米山舞-yoneyama mai: 0.1
+幻月重光_暖色滤镜: 0.8
+XL-藏色彩感: 0.4
+战斗狂草乱线风草稿风: 0.5
+```
+
 
 
