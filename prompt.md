@@ -126,7 +126,9 @@ chibi,furry,kemono,(solo:1.5),chibi,(kamikiririp:0.2),(soresaki:0.4),(head focus
   https://wiki.52poke.com/wiki/
 
 ### 沙奈朵-和风
+
 <img src="/image/houtu1.jpg" alt="snd" width="300" >  
+
 ```
 Gardevoir,kimono,holding a sword,solo,(soresaki:0.2),foreshortening,smile,cinematic light,hdr shadow,blurry,chromatic aberration,(sketch:0.8),simple background,pastel color,
 ====
