@@ -49,6 +49,9 @@
 - Webui基础使用参考教程  
 <https://www.bilibili.com/video/BV1VXYszZEvD/>  
 
+- 不看案例分析就直接走这里  
+[提示词速查表](cheatSheet.md)
+
 ## Tips
 
 - 提示词推荐遵从主体, 背景, 画面材质顺序书写，增加可读性和可维护性
