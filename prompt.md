@@ -225,6 +225,7 @@ chibi,lue3style,yoneyama mai,furry,kemono,(solo:1.5),chibi,(kamikiririp:0.2),(so
 furry,kemono,solo,chibi,pastel color,tiger feature,white fur,simple white background,smile,scarf,(kamikiririp:0.4),(soresaki:0.4),
 gradient color,cinematic light,hdr shadow,blurry,chromatic aberration,sketch,
 ```
+![lora_cross2](/image/藏色+米.png)  
 
 
 ## 写在最后
