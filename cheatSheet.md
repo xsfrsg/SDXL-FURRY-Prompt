@@ -105,6 +105,21 @@ poster
 
 ## 杂项
 
+<https://www.liblib.art/imageinfo/891bed4414d5429f953efb03c0714c7e>
+
+```txt
+chibi,lue3style,yoneyama mai,furry,kemono,(solo:1.5),chibi,(kamikiririp:0.2),(soresaki:0.4),pastel color,tiger feature,white fur,simple white background,smile,scarf,
+```
+
+| LORA | 权重 |
+|-------|-------|
+| 米山舞-yoneyama mai | 0.1 |
+| 有兽焉漫画 | 1.0 |
+| Art-山楂糖 | 0.5 |
+| 战斗狂草乱线风草稿风 | 0.2 |
+
+<https://www.liblib.art/imageinfo/3efe548db81c4c4b8b2242530cc3b4d6>
+
 - 魔法森林-avali  
 
 ``` txt
