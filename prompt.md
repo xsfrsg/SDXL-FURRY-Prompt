@@ -201,7 +201,7 @@ Art-山楂糖
 
 ## 备忘区
 
-<https://www.liblib.art/imageinfo/891bed4414d5429f953efb03c0714c7e?mine=1>
+<https://www.liblib.art/imageinfo/891bed4414d5429f953efb03c0714c7e>
 
 ```txt
 chibi,lue3style,yoneyama mai,furry,kemono,(solo:1.5),chibi,(kamikiririp:0.2),(soresaki:0.4),pastel color,tiger feature,white fur,simple white background,smile,scarf,
@@ -213,6 +213,8 @@ chibi,lue3style,yoneyama mai,furry,kemono,(solo:1.5),chibi,(kamikiririp:0.2),(so
 | 有兽焉漫画 | 1.0 |
 | Art-山楂糖 | 0.5 |
 | 战斗狂草乱线风草稿风 | 0.2 |
+
+<https://www.liblib.art/imageinfo/3efe548db81c4c4b8b2242530cc3b4d6>
 
 ## LORA & 画师串
 
