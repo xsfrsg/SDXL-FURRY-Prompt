@@ -203,7 +203,8 @@ chibi,lue3style,yoneyama mai,furry,kemono,(solo:1.5),chibi,(kamikiririp:0.2),(so
 | 战斗狂草乱线风草稿风 | 0.2 |
 
 ## LORA & 画师串
-
+- Soresaki & Kamikiririp
+![artist_cross](/image/artist_cross.png)  
 
 
 ## 写在最后
