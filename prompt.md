@@ -85,7 +85,8 @@ Art-山楂糖_1: 0.5
 
 
 ### 和服套装
-- 看到不错的服装搭配 ，可以复制进来
+- 看到不错的服装搭配 ，可以复制进来  
+- https://www.liblib.art/imageinfo/043743f795a94af5ad464d6d0ed744aa
 ``` 
 furry,chibi,solo,
 green hair,knee-high socks,one eye half-lidded,long hair tied back,kimono,fox ears,subtle blush,wide sleeves,bangs swept to side,sun (symbol),obi sash,hakama pants,simple traditional outfit,plain white,holding a fan,looking at viewer,hair tie,white undergarments,kimono slightly open,
@@ -128,6 +129,8 @@ chibi,furry,kemono,(solo:1.5),chibi,(kamikiririp:0.2),(soresaki:0.4),(head focus
 
 ### 沙奈朵-和风
 
+- https://www.liblib.art/imageinfo/89a4e5dc981c44e9918949915e4d4448
+
 <img src="/image/houtu1.jpg" alt="snd" width="300" >  
 
 ```
@@ -151,7 +154,9 @@ XL-藏色彩感: 0.4
 - 提一下高清重绘，一般放大1.25倍，重绘幅度0.4附近即可
 <img src="/image/upscale.png" alt="wt ht" height="500" >  
 
-### 白虎-武侠
+### 白虎-武侠  
+
+- https://www.liblib.art/imageinfo/8398f7caec274032bf044e5e45d59f9d
 
 <img src="/image/伪厚涂2.jpg" alt="wt ht" width="300" >  
 
@@ -183,6 +188,23 @@ Art-山楂糖
 | prompt | 作用 | 解释 |
 |-------|-------|-------|
 | dark green and light orange color scheme | 指定配色 | 如图可见，可以轻松做出颜色统一的画面，并且能智能的指定到近似颜色的物体上 |
+
+## 备忘区 
+
+https://www.liblib.art/imageinfo/891bed4414d5429f953efb03c0714c7e?mine=1
+```
+chibi,lue3style,yoneyama mai,furry,kemono,(solo:1.5),chibi,(kamikiririp:0.2),(soresaki:0.4),pastel color,tiger feature,white fur,simple white background,smile,scarf,
+```
+| LORA | 权重 | 
+|-------|-------|
+| 米山舞-yoneyama mai | 0.1 |
+| 有兽焉漫画 | 1.0 |
+| Art-山楂糖 | 0.5 |
+| 战斗狂草乱线风草稿风 | 0.2 |
+
+## LORA & 画师串
+
+
 
 ## 写在最后
   
