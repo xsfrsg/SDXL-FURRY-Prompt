@@ -49,6 +49,8 @@ foreshortening,cinematic light,hdr shadow,blurry,chromatic aberration
 透视缩短、电影级灯光、高分辨率阴影、模糊、色差
 ```
 
+## 材质 （在自身风格确定的模型下不是很起作用）
+
 - 手绘材质
 
 ``` txt
@@ -73,5 +75,3 @@ vine,night,looking away,magic,cinematic light,soresaki,source_cartoon,light gree
 avali,(kemono:0.8),(furry:0.8),(transparent body:1.1),loose hoodie,shorts,chibi,solo,(dynamic pose:1.2),smile,looking away,white face,wings,from below,holding a book,Grim Reaper,huge Scythe of Death,glowing magic particles,
 dark blue and light purple color scheme,pixel art,glitch art,abstract,cinematic light,pastel colors,source_cartoon,soresaki,(nuu \(nu-nyu\):0.6),foreshortening,gradient color,
 ```
-- 
-
