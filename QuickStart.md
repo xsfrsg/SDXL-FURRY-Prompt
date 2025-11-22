@@ -15,8 +15,6 @@
 <https://www.liblib.art/modelinfo/6fc79150990447409a3ad5feb75a77d8>  
 <img src="/image/LORA_YSY.jpg" alt="示例图片" width="600" >
 
-
-
 ## 绘画入口  
 
 - 由于部分LORA独占性，在其他平台不可用，推荐在LiblibAI中的webui进行绘制

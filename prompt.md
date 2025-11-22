@@ -240,6 +240,4 @@ gradient color,cinematic light,hdr shadow,blurry,chromatic aberration,sketch,
 
 <img src="/image/线稿+暖色.jpg" alt="x" width="1000" >
 
-## 写在最后
   
-未完待续。  
