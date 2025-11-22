@@ -200,22 +200,7 @@ Art-山楂糖
 |-------|-------|-------|
 | dark green and light orange color scheme | 指定配色 | 如图可见，可以轻松做出颜色统一的画面，并且能智能的指定到近似颜色的物体上 |
 
-## 备忘区
 
-<https://www.liblib.art/imageinfo/891bed4414d5429f953efb03c0714c7e>
-
-```txt
-chibi,lue3style,yoneyama mai,furry,kemono,(solo:1.5),chibi,(kamikiririp:0.2),(soresaki:0.4),pastel color,tiger feature,white fur,simple white background,smile,scarf,
-```
-
-| LORA | 权重 |
-|-------|-------|
-| 米山舞-yoneyama mai | 0.1 |
-| 有兽焉漫画 | 1.0 |
-| Art-山楂糖 | 0.5 |
-| 战斗狂草乱线风草稿风 | 0.2 |
-
-<https://www.liblib.art/imageinfo/3efe548db81c4c4b8b2242530cc3b4d6>
 
 ## LORA & 画师串
 
