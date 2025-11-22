@@ -211,7 +211,8 @@ chibi,lue3style,yoneyama mai,furry,kemono,(solo:1.5),chibi,(kamikiririp:0.2),(so
 
 ### STEP2 LORA组合  
 
-#### STEP2.1 画风模型 
+#### STEP2.1 画风模型
+![alt text](image.png) 
 - 有兽焉 & 山楂糖，其中有兽焉能一定程度优化勾线笔触，山楂糖优化眼部及头发高光  
 (图中YSY、SZT即简拼，后紧接着的数字是权重，在Soresaki:0.4 & Kamikiririp:0.4下进行叠加)
 ![lora_cross](/image/LORA_CROSS1.png)  
@@ -228,7 +229,11 @@ gradient color,cinematic light,hdr shadow,blurry,chromatic aberration,sketch,
 ![lora_cross2](/image/藏色+米.png)  
 
 - 可以发现 藏色在大权重时会影响chibi风格，并且在0.8时开始出现手脚的错乱问题（这里没有放出）
-- 顺便也可以发现，在质量ok的lora中用常规的权重，肢体问题出现的概率还是很低的
+- 顺便也可以发现，在质量ok的lora中（质量不好或者模型种类不适配的lora会崩图）用常规的权重，肢体问题出现的概率还是很低的
+
+#### STEP2.3 光影模型 微调
+
+![lora_cross2](/image/线稿+暖色.png)  
 
 ## 写在最后
   
