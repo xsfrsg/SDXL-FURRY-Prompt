@@ -153,7 +153,7 @@ XL-藏色彩感: 0.4
 
 
 - 提一下高清重绘，一般放大1.25倍，重绘幅度0.4附近即可
-<img src="/image/upscale.png" alt="wt ht" height="500" >  
+<img src="/image/upscale.png" alt="wt ht" width="600" >  
 
 ### 白虎-武侠  
 
