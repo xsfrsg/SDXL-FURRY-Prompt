@@ -58,9 +58,9 @@ https://www.bilibili.com/video/BV1VXYszZEvD/
  
 ### QuickStart 起手式
 
-<img src="/image/起手式1.png" alt="起手式" height="300" >  
+<img src="/image/起手式1.png" alt="起手式" width="600" >  
 
-<img src="/image/起手式画幅参数.png" alt="画幅 & CFG" height="300" >
+<img src="/image/起手式画幅参数.png" alt="画幅 & CFG" width="600" >
 
 - CFG 5-7即可 
 - 画幅有:竖幅1024x1536(2:3) 横幅1536x864(16:9) 正方形（1024x1024）正确的画幅参数绘制效果最好
