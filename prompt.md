@@ -59,7 +59,7 @@ https://www.bilibili.com/video/BV1VXYszZEvD/
 ### QuickStart 起手式
 
 <img src="/image/起手式1.png" alt="起手式" height="300" >  
-  
+
 <img src="/image/起手式画幅参数.png" alt="画幅 & CFG" height="300" >
 
 - CFG 5-7即可 
@@ -206,16 +206,18 @@ chibi,lue3style,yoneyama mai,furry,kemono,(solo:1.5),chibi,(kamikiririp:0.2),(so
 ## LORA & 画师串
 展示一次风格调试流程。首先要锁定种子编号，避免因为随机导致不好对照变化。从画师串，画风lora到光影lora逐步叠加，观察效果。
 ### STEP1 模型自带画师串  
-- Soresaki & Kamikiririp  (图中S、K即首字母，后紧接着的数字是权重，0为不使用)
-![artist_cross](/image/artist_cross.png)  
+- Soresaki & Kamikiririp  (图中S、K即首字母，后紧接着的数字是权重，0为不使用)  
+
+<img src="/image/artist_cross.png" alt="" width="1000" >  
 
 ### STEP2 LORA组合  
 
 #### STEP2.1 画风模型
-![alt text](image.png) 
+
 - 有兽焉 & 山楂糖，其中有兽焉能一定程度优化勾线笔触，山楂糖优化眼部及头发高光  
-(图中YSY、SZT即简拼，后紧接着的数字是权重，在Soresaki:0.4 & Kamikiririp:0.4下进行叠加)
-![lora_cross](/image/LORA_CROSS1.png)  
+(图中YSY、SZT即简拼，后紧接着的数字是权重，在Soresaki:0.4 & Kamikiririp:0.4下进行叠加)  
+
+<img src="/image/LORA_CROSS1.png" alt="" width="1000" >   
 
 #### STEP2.2 光影模型 
 
@@ -226,14 +228,16 @@ chibi,lue3style,yoneyama mai,furry,kemono,(solo:1.5),chibi,(kamikiririp:0.2),(so
 furry,kemono,solo,chibi,pastel color,tiger feature,white fur,simple white background,smile,scarf,(kamikiririp:0.4),(soresaki:0.4),
 gradient color,cinematic light,hdr shadow,blurry,chromatic aberration,sketch,
 ```
-![lora_cross2](/image/藏色+米.png)  
+
+<img src="/image/藏色+米.png" alt="" width="1000" >   
 
 - 可以发现 藏色在大权重时会影响chibi风格，并且在0.8时开始出现手脚的错乱问题（这里没有放出）
 - 顺便也可以发现，在质量ok的lora中（质量不好或者模型种类不适配的lora会崩图）用常规的权重，肢体问题出现的概率还是很低的
 
 #### STEP2.3 光影模型 微调
 
-![lora_cross2](/image/线稿+暖色.png)  
+<img src="/image/线稿+暖色.png" alt="" width="1000" >   
+
 
 ## 写在最后
   
