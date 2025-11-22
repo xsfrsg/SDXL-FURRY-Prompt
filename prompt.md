@@ -9,7 +9,7 @@
 
 ## LORA  
 
-![alt text](/image/ALL_LORA.png)  
+![alt text](/image/ALL_LORA.jpg)  
 
 ### 1. 画风类
 
@@ -62,9 +62,9 @@
 
 ### QuickStart 起手式
 
-<img src="/image/起手式1.png" alt="起手式" width="600" >  
+<img src="/image/起手式1.jpg" alt="起手式" width="600" >  
 
-<img src="/image/起手式画幅参数.png" alt="画幅 & CFG" width="600" >
+<img src="/image/起手式画幅参数.jpg" alt="画幅 & CFG" width="600" >
 
 - CFG 5-7即可
 - 画幅有:竖幅1024x1536(2:3) 横幅1536x864(16:9) 正方形（1024x1024）正确的画幅参数绘制效果最好
@@ -113,7 +113,7 @@ Art-山楂糖_1: 0.7
 | one eye closed | 指定动作 | v(v手势)，颜文字等都可，也可直接翻译软件 |
 
 - 多翻一翻提示词表，这些原生词汇会识别的更好
-![alt text](/image/props.png)
+![alt text](/image/props.jpg)
 
 ### 表情包 expressions
 
@@ -121,7 +121,7 @@ Art-山楂糖_1: 0.7
 chibi,furry,kemono,(solo:1.5),chibi,(kamikiririp:0.2),(soresaki:0.4),(head focus:1.2),(simple white background:1.4),gradient color,light green hair,red eyes,expressions,
 ```
 
-<img src="/image/expressions.png" alt="表情包" width="300" >
+<img src="/image/expressions.jpg" alt="表情包" width="300" >
 
 | prompt | 作用 | 延申 |
 |-------|-------|-------|
@@ -131,7 +131,7 @@ chibi,furry,kemono,(solo:1.5),chibi,(kamikiririp:0.2),(soresaki:0.4),(head focus
 ## 2. 伪厚涂类
 
 - 宝可梦简易速查  
-<img src="/image/宝可梦.png" alt="pkm"  width="300" >  
+<img src="/image/宝可梦.jpg" alt="pkm"  width="300" >  
 
 - 宝可梦百科  
   <https://wiki.52poke.com/wiki/>
@@ -161,7 +161,7 @@ XL-藏色彩感: 0.4
 | sketch | 线稿 | 此处主要作为lora触发词，单独使用作用不明显 |
 
 - 提一下高清重绘，一般放大1.25倍，重绘幅度0.4附近即可  
-<img src="/image/upscale.png" alt="wt ht" width="600" >  
+<img src="/image/upscale.jpg" alt="wt ht" width="600" >  
 
 ### 白虎-武侠  
 
@@ -184,7 +184,7 @@ close up,upper body,vibrant color,gradient color,cinematic light,hdr shadow,blur
 
 ### 指定配色
 
-<img src="/image/伪厚涂3.png" alt="wt ht" width="300" >
+<img src="/image/伪厚涂3.jpg" alt="wt ht" width="300" >
 
 ```txt
 furry,chibi,white fur,tiger feature,(solo:1.5),tall and thin,gradient color,smile,flowers,foreshortening,cinematic light,hdr shadow,blurry,chromatic aberration,sketch,grey scale,looking away,dark green and light orange color scheme,loose hoodie,hand in pocket,(soresaki:0.2)
@@ -222,7 +222,7 @@ chibi,lue3style,yoneyama mai,furry,kemono,(solo:1.5),chibi,(kamikiririp:0.2),(so
 
 - Soresaki & Kamikiririp  (图中S、K即首字母，后紧接着的数字是权重，0为不使用)  
 
-<img src="/image/artist_cross.png" alt="" width="1000" >  
+<img src="/image/artist_cross.jpg" alt="" width="1000" >  
 
 ### STEP2 LORA组合  
 
@@ -231,7 +231,7 @@ chibi,lue3style,yoneyama mai,furry,kemono,(solo:1.5),chibi,(kamikiririp:0.2),(so
 - 有兽焉 & 山楂糖，其中有兽焉能一定程度优化勾线笔触，山楂糖优化眼部及头发高光  
 (图中YSY、SZT即简拼，后紧接着的数字是权重，在Soresaki:0.4 & Kamikiririp:0.4下进行叠加)  
 
-<img src="/image/LORA_CROSS1.png" alt="" width="1000" >  
+<img src="/image/LORA_CROSS1.jpg" alt="" width="1000" >  
 
 #### STEP2.2 光影模型  
 
@@ -243,14 +243,14 @@ furry,kemono,solo,chibi,pastel color,tiger feature,white fur,simple white backgr
 gradient color,cinematic light,hdr shadow,blurry,chromatic aberration,sketch,
 ```
 
-<img src="/image/藏色+米.png" alt="" width="1000" >
+<img src="/image/藏色+米.jpg" alt="" width="1000" >
 
 - 可以发现 藏色在大权重时会影响chibi风格，并且在0.8时开始出现手脚的错乱问题（这里没有放出）
 - 顺便也可以发现，在质量ok的lora中（质量不好或者模型种类不适配的lora会崩图）用常规的权重，肢体问题出现的概率还是很低的
 
 #### STEP2.3 光影模型 微调
 
-<img src="/image/线稿+暖色.png" alt="x" width="1000" >
+<img src="/image/线稿+暖色.jpg" alt="x" width="1000" >
 
 ## 写在最后
   
