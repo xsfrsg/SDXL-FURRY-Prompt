@@ -203,9 +203,12 @@ chibi,lue3style,yoneyama mai,furry,kemono,(solo:1.5),chibi,(kamikiririp:0.2),(so
 | 战斗狂草乱线风草稿风 | 0.2 |
 
 ## LORA & 画师串
-- Soresaki & Kamikiririp
+
+- 模型自带画师串：Soresaki & Kamikiririp  (图中S、K即首字母，后紧接着的数字是权重，0为不使用)
 ![artist_cross](/image/artist_cross.png)  
 
+- LORA组合：有兽焉 & 山楂糖  (图中YSY、SZT即简拼，后紧接着的数字是权重， 在Soresaki:0.4 & Kamikiririp:0.4下进行叠加)
+![lora_cross](/image/LORA_CROSS1.png)  
 
 ## 写在最后
   
