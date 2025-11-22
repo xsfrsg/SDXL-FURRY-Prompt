@@ -40,6 +40,7 @@ https://www.liblib.art/modelinfo/6fc79150990447409a3ad5feb75a77d8
 （需要充值会员的话可以走此邀请码，应该会有一定折扣 https://www.liblib.art/viphome?referralCode=9hysq3HU ）
 
 <img src="/image/inter.jpg" alt="示例图片" width="600" >  
+ 
 <img src="/image/inter2.jpg" alt="示例图片" width="600" >  
 
 - Webui基础使用参考教程  
@@ -85,7 +86,7 @@ Art-山楂糖_1: 0.5
 
 
 ### 和服套装
-- 看到不错的服装搭配 ，可以复制进来  
+- 可以常关注平台推荐的LORA和模型，在返图图看到不错的服装搭配或者场景描述，亦或者画师串，可以复制进来进行测试。  
 - https://www.liblib.art/imageinfo/043743f795a94af5ad464d6d0ed744aa
 ``` 
 furry,chibi,solo,
@@ -203,14 +204,28 @@ chibi,lue3style,yoneyama mai,furry,kemono,(solo:1.5),chibi,(kamikiririp:0.2),(so
 | 战斗狂草乱线风草稿风 | 0.2 |
 
 ## LORA & 画师串
-
-### 模型自带画师串  
+展示一次风格调试流程。首先要锁定种子编号，避免因为随机导致不好对照变化。从画师串，画风lora到光影lora逐步叠加，观察效果。
+### STEP1 模型自带画师串  
 - Soresaki & Kamikiririp  (图中S、K即首字母，后紧接着的数字是权重，0为不使用)
 ![artist_cross](/image/artist_cross.png)  
 
 ### LORA组合  
-- 有兽焉 & 山楂糖  (图中YSY、SZT即简拼，后紧接着的数字是权重， 在Soresaki:0.4 & Kamikiririp:0.4下进行叠加)
+
+#### 画风模型 
+- 有兽焉 & 山楂糖，其中有兽焉能一定程度优化勾线笔触，山楂糖优化眼部及头发高光  
+(图中YSY、SZT即简拼，后紧接着的数字是权重，在Soresaki:0.4 & Kamikiririp:0.4下进行叠加)
 ![lora_cross](/image/LORA_CROSS1.png)  
+
+#### 光影模型 
+
+- 加入 gradient color,cinematic light,hdr shadow,blurry,chromatic aberration,sketch 来强化光影氛围，且一部分是lora触发词（在lora简介页都有说明）
+- 在Soresaki:0.4，Kamikiririp:0.4；YSY:0.5，SZT:0.5下继续叠加
+
+```
+furry,kemono,solo,chibi,pastel color,tiger feature,white fur,simple white background,smile,scarf,(kamikiririp:0.4),(soresaki:0.4),
+gradient color,cinematic light,hdr shadow,blurry,chromatic aberration,sketch,
+```
+
 
 ## 写在最后
   
