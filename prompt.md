@@ -58,8 +58,8 @@ https://www.bilibili.com/video/BV1VXYszZEvD/
  
 ### QuickStart 起手式
 
-<img src="/image/起手式1.png" alt="起手式" height="300" >
-
+<img src="/image/起手式1.png" alt="起手式" height="300" >  
+  
 <img src="/image/起手式画幅参数.png" alt="画幅 & CFG" height="300" >
 
 - CFG 5-7即可 
@@ -122,7 +122,7 @@ chibi,furry,kemono,(solo:1.5),chibi,(kamikiririp:0.2),(soresaki:0.4),(head focus
 
 ## 2. 伪厚涂类
 
-- 宝可梦简易速查
+- 宝可梦简易速查  
 <img src="/image/宝可梦.png" alt="pkm"  width="300" >  
 
 - 宝可梦百科  
