@@ -36,10 +36,13 @@ furry,chibi,solo,cat feature，pastel color,gradient color,simple white backgrou
 furry,chibi,(solo:1.2),(kamikiririp:0.2),(soresaki:0.4),gradient color, 
 ```
 
-| LORA |  |
+| 平涂LORA |  |
 |-------|-------|
 | 有兽焉漫画 | 1.0 |
 | Art-山楂糖 | 0.5 |
+
+| 加光影笔触LORA |  |
+|-------|-------|
 | 战斗狂草乱线风草稿风 | 0.2 |
 | 米山舞-yoneyama mai | 0.1 |
 
