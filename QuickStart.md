@@ -45,6 +45,9 @@ LORA:
 Art-山楂糖_1: 0.5
 有兽焉漫画_兔爷: 0.8
 ```
+- 得到类似效果表示成功   
+<img src="/image/1.jpg" alt="起手式" width="300" >
+
 接下来是
 [提示词及LORA权重案例分析](prompt.md)
 
