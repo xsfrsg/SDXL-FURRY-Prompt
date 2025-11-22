@@ -226,6 +226,7 @@ furry,kemono,solo,chibi,pastel color,tiger feature,white fur,simple white backgr
 gradient color,cinematic light,hdr shadow,blurry,chromatic aberration,sketch,
 ```
 ![lora_cross2](/image/藏色+米.png)  
+
 - 可以发现 藏色在大权重时会影响chibi风格，并且在0.8时开始显著影响身体结构 
 
 ## 写在最后
