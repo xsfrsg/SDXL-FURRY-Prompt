@@ -9,15 +9,14 @@ WELCOME
 |[提示词及LORA权重案例分析](prompt.md) | 重点提示词介绍，然后进行一次调参流程的演示  |
 |[提示词速查表](cheatSheet.md)|  汇集常用提示词|
 
-<br>
+
  <div align="center"><strong>元  素  法  典</strong></div>
  <div align="center"><strong>The Code of Quintessence</strong></div>
  <div align="center">Presents by</div>
   <div align="center">Chinese CoQ Production Committee</div>  
-</br>
 
-哦 对了，差点忘了，这里是《元素法典》链接，可以算是史前巨著了，但是在曾经的sd1.5上都能跑出惊艳的效果，现在应该会更好用。 <https://docs.qq.com/doc/DWHl3am5Zb05QbGVs>
 
+哦 对了，差点忘了，这里是《元素法典》链接，可以算是史前巨著了，webUI中提示词的魔法系一栏貌似就是取自于此。在曾经的sd1.5上都能跑出惊艳的效果，现在自然也有很多可以参考的部分。 <https://docs.qq.com/doc/DWHl3am5Zb05QbGVs>
 
 
 
