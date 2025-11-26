@@ -10,7 +10,7 @@ WELCOME
 |[提示词速查表](cheatSheet.md)|  汇集常用提示词|
 
 
-Nano Banana Pro 试用网站 （每个账号各有几回的机会，切多谷歌等账号即可）   
+Nano Banana Pro 试用网站 （每个账号各有几回的机会，多个谷歌等账号即可免费白嫖）   
 https://zenmux.ai  
 https://www.lovart.ai  
 https://www.nanobananapro.site/
