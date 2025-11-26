@@ -10,6 +10,11 @@ WELCOME
 |[提示词速查表](cheatSheet.md)|  汇集常用提示词|
 
 
+Nano Banana Pro 试用网站 （每个账号各有几回的机会，切多谷歌等账号即可）   
+https://zenmux.ai  
+https://www.lovart.ai  
+https://www.nanobananapro.site/
+
  <div align="center"><strong>元  素  法  典</strong></div>
  <div align="center"><strong>The Code of Quintessence</strong></div>
  <div align="center">Presents by</div>
