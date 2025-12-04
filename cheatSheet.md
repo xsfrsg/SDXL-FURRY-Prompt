@@ -140,6 +140,8 @@ chibi,lue3style,yoneyama mai,furry,kemono,(solo:1.5),chibi,(kamikiririp:0.2),(so
 
 <https://www.liblib.art/imageinfo/3efe548db81c4c4b8b2242530cc3b4d6>
 
+<https://www.liblib.art/imageinfo/28ec025785e542c785e49114fb99e89a>
+
 - 魔法森林-avali  
 
 ``` txt
