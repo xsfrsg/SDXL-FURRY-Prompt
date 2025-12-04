@@ -8,7 +8,7 @@ WELCOME
 | [快速开始](QuickStart.md) |  进行一次完整的绘制  |
 |[提示词及LORA权重案例分析](prompt.md) | 重点提示词介绍，然后进行一次调参流程的演示  |
 |[提示词速查表](cheatSheet.md)|  汇集常用提示词|
-
+|[其他大模型的提示词赏析](cheatSheet.md)|  汇集常用提示词|
 
 Nano Banana Pro 试用网站 （每个账号各有几回的机会，多个谷歌等账号即可免费白嫖）   
 https://zenmux.ai  
