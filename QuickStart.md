@@ -45,7 +45,7 @@ LORA:
 Art-山楂糖_1: 0.5
 有兽焉漫画_兔爷: 0.8
 ```
-### ⭐最新最佳起手式 [25.12.04]
+### ⭐最新起手式 [25.12.04]
 ```
 furry,chibi,solo,cat feature,pastel color,simple white background,(kamikiririp:0.2),(tianliang_duohe_fangdongye:0.7),
 ====
