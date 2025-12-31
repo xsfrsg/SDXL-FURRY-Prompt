@@ -1,7 +1,10 @@
 # FURRY DIFFUSION TUTORIAL  
 
 WELCOME  
-基于Illustrious（光辉）类模型的提示词及lora组合探究，展示已发现的平涂及伪厚涂风格下的FURRY向提示词书写技巧，分享当下SD的使用心得。  
+基于Illustrious（光辉）类模型的提示词及lora组合探究，展示已发现的平涂及伪厚涂风格下的FURRY向提示词书写技巧，分享当下SD的使用心得。
+
+- 个人LibLibAI主页 点击图片可以看到参数，右下角 ‘webui做同款‘ 可以一键复制参数和模型’
+https://www.liblib.art/userpage/d4ce153ffe1a451395af4c1d174a463c/publish/image   
 
 |导航 |  | 
 |-------|-------|

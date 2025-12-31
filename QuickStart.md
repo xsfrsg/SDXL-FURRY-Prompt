@@ -28,7 +28,9 @@
 - Webui基础使用参考教程  
 <https://www.bilibili.com/video/BV1VXYszZEvD/>  
 
-### QuickStart 起手式
+- 个人主页 点击图片可以看到参数
+https://www.liblib.art/userpage/d4ce153ffe1a451395af4c1d174a463c/publish/image 
+## QuickStart 起手式
 
 <img src="/image/起手式1.jpg" alt="起手式" width="600" >  
 
@@ -45,7 +47,7 @@ LORA:
 Art-山楂糖_1: 0.5
 有兽焉漫画_兔爷: 0.8
 ```
-### ⭐最新起手式 [25.12.04]
+### 起手式 [25.12.04]
 ```
 furry,chibi,solo,cat feature,pastel color,simple white background,(kamikiririp:0.2),(tianliang_duohe_fangdongye:0.7),
 ====
@@ -55,6 +57,17 @@ Art-山楂糖_1: 0.5
 ```
 - 得到类似效果表示成功   
 <img src="/image/1.jpg" alt="起手式" width="300" >
+
+### 起手式 [25.12.29]
+
+```
+no humans,(claws:0.6),dated,white background,solo,animal focus,smile,
+(tianliang_duohe_fangdongye:0.8),(chibi:0.9),gradient color,(kamikiririp:0.2),(soresaki:0.1),forest,flat color,no shading,
+====
+LORA:
+有兽焉漫画_兔爷: 0.7
+XL-藏色彩感: 0.2
+```
 
 接下来是
 [提示词及LORA权重案例分析](prompt.md)
