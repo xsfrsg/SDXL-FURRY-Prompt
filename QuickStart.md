@@ -47,6 +47,10 @@ LORA:
 Art-山楂糖_1: 0.5
 有兽焉漫画_兔爷: 0.8
 ```
+
+- 得到类似效果表示成功   
+<img src="/image/1.jpg" alt="起手式" width="300" >  
+
 ### 起手式 [25.12.04]
 ```
 furry,chibi,solo,cat feature,pastel color,simple white background,(kamikiririp:0.2),(tianliang_duohe_fangdongye:0.7),
@@ -55,8 +59,6 @@ LORA:
 Art-山楂糖_1: 0.5
 有兽焉漫画_兔爷: 0.8
 ```
-- 得到类似效果表示成功   
-<img src="/image/1.jpg" alt="起手式" width="300" >
 
 ### 起手式 [25.12.29]
 
