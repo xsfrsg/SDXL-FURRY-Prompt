@@ -171,6 +171,8 @@ LORA:
 藏色：0.2
 ```
 
+<img src="/image/捂脸.png" alt="捂脸" width="300" >  
+
 #### 表情包 expressions
 
 ```
