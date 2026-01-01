@@ -90,7 +90,38 @@ Art-山楂糖_1: 0.5
 
 <img src="/image/1.jpg" alt="起手式" width="300" >
 
+### 起手式 2
+
+``` txt
+no humans,animal focus,chibi,solo,(claws:0.6),transparent pawpads,smile,
+(tianliang_duohe_fangdongye:0.8),(kamikiririp:0.1),(soresaki:0.1),gradient color,flat color,no shading,white background, 
+
+LORA:
+有兽焉漫画_兔爷: 0.6
+```
+| prompt | 作用 | 延申 |
+|-------|-------|-------|
+| no humans, animal focus | 更偏向动物风格，取代furry的作用 | - |
+| claws，transparent pawpads | 强化爪子特征 | - |
+| flat color, no shading | 平涂，减少光影效果 | - |
+
+<img src="/image/qSS2.png" alt="QSS2" width="300" >      
+
+### Pony
+```
+pony,no humans,animal focus,white background,solo,smile,pastel colors scheme,
+(tianliang_duohe_fangdongye:0.6),(kamikiririp:0.1),(soresaki:0.1),blue sky,gradient color,flat color,no shading,dark red scarf,
+```
+| prompt | 作用 | 延申 |
+|-------|-------|-------|
+| pony | 顾名思义 |-|
+| blue sky | 背景 |-|
+| dark red scarf | 服饰 |-|
+  
+<img src="/image/pony.png" alt="pony" width="300" >   
+
 ### 和服套装
+
 
 - 可以常关注平台推荐的LORA和模型，在返图区看到不错的服装搭配或者场景描述，亦或者画师串，可以复制进来进行测试。  
 - <https://www.liblib.art/imageinfo/043743f795a94af5ad464d6d0ed744aa>
@@ -116,7 +147,31 @@ Art-山楂糖_1: 0.7
 - 多翻一翻提示词表，这些原生词汇会识别的更好
 ![alt text](/image/props.jpg)
 
-### 表情包 expressions
+### 表情 
+#### =v=  V  
+https://www.liblib.art/imageinfo/14b1927f598941b1bd36139d9b3f631f  
+```
+no humans,(claws:0.6),white background,solo,animal focus,smile,pastel color,
+(tianliang_duohe_fangdongye:0.6),(chibi:0.8),gradient color,(kamikiririp:0.1),forest,(soresaki:0.2),flat color,no shading,=v=,close up,v,
+
+LORA:
+有兽焉漫画_兔爷: 0.6
+```
+<img src="/image/表情1.png" alt="表情1" width="300" >
+
+#### 捂脸  
+https://www.liblib.art/imageinfo/3e2395bd1f37402fab23aaf9f14db682  
+```
+no humans,(claws:0.7),transparent paw pads,white background,solo,animal focus,multi pastel colors scheme,
+(tianliang_duohe_fangdongye:0.6),chibi,gradient color,(kamikiririp:0.1),(soresaki:0.1),blue sky,flat color,facepalm,no shading,scarf,
+
+LORA:
+有兽焉漫画_兔爷: 0.4
+山楂糖：0.2
+藏色：0.2
+```
+
+#### 表情包 expressions
 
 ```
 chibi,furry,kemono,(solo:1.5),chibi,(kamikiririp:0.2),(soresaki:0.4),(head focus:1.2),(simple white background:1.4),gradient color,light green hair,red eyes,expressions,
@@ -130,6 +185,18 @@ chibi,furry,kemono,(solo:1.5),chibi,(kamikiririp:0.2),(soresaki:0.4),(head focus
 | expressions | 表情差分 | 会画出各种表情，可以指定多种，但不太稳定，抽盲盒一样 |
 
 ## 2. 伪厚涂类
+
+```
+no humans,chibi,(claws:0.5),dark simple background,solo,animal focus,smile,glowing striped fur,white and ddark blue fur,transparent body,
+(tianliang_duohe_fangdongye:0.6),gradient color,(kamikiririp:0.3),(soresaki:0.1),forest,
+cinematic light,blurry,chromatic aberration,
+
+LORA:
+有兽焉漫画_兔爷: 0.8
+藏色彩感: 0.2
+```
+<img src="/image/HT1.png" alt="HT1"  width="300" >    
+
 
 - 宝可梦简易速查  
 <img src="/image/宝可梦.jpg" alt="pkm"  width="300" >  
